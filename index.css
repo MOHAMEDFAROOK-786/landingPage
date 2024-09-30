@@ -1,0 +1,249 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.log{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:silver;
+    height: 50px;
+
+}
+.log1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: silver;
+    height: 80px;
+}
+.bar{
+    margin-left: 120px;
+}
+.bar  a{
+    text-decoration: none;
+}
+.bar1{
+    margin-right: 100px;
+}
+.bar1  a{
+    text-decoration: none;
+}
+.home{
+   word-spacing: 30px;
+}
+.home a{
+    text-decoration: none;
+
+}
+.home{
+    margin-right: 190px;
+}
+.input input{
+    font-size: 20px;
+    padding: 10px;
+    width: 300px;
+}
+.input img{
+    height: 30px;
+    position: relative;
+    top: 6px;
+}
+.logo img{
+     margin-left: 0px; 
+}
+.logo{
+    margin-left: 70px;
+}
+.icon img{
+    height: 20px;
+    position: relative;
+    top: 6px;
+   
+}
+.icon {
+    margin-left: 500px; 
+    word-spacing: 5px;
+}
+.home1{
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    height: 50px;
+}
+.image{
+    text-align: center;
+}
+.shop{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.shop button{
+    font-size: 20px;
+    padding: 10px;
+    background-color: red;
+    border: none;
+}
+.flow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+
+
+    
+
+}
+.pro{
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(43, 43, 44);
+ 
+
+
+}.pro1{
+    height: 200px;
+    width: 300px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.pro:hover{
+ background-color: whitesmoke;
+}
+.pro span{
+    position: relative;
+    left:21px;
+}
+.pro h1{
+    font-size: 50px;
+}
+.pro1 h1{
+    font-size: 50px;
+}
+.hello{
+  
+    border: 2px solid black;
+}
+.new img{
+    height: 50px;
+}
+.new1{
+    /* border: 2px solid black; */
+    width: 700px;
+    text-align: center;
+}
+.new {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    margin-top: 25PX;
+    margin-bottom: 20PX;
+
+}
+.img img{
+    background-color: silver;
+}
+.img div{
+    margin-right: 2px;
+}
+footer{
+    margin-top: 10px;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(168, 165, 165);
+}
+footer div{
+    line-height: 50px;
+}
+.foot img{
+    height: 20px;
+    position: relative;
+    top: 5px;
+}
+.desk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(226, 221, 221);
+}
+.desk1{
+    width: 500px; 
+     /* border: 2px solid black; */
+  
+}
+.desk2{
+    width: 500px; 
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.desk1 button{
+    font-size: 20px;
+    padding: 10px;
+    border-color: red;
+    position: relative;
+    left: 150px;
+}
+.desk1 button:hover{
+    background-color: red;
+}
+.desk5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(190, 182, 182);
+   
+
+}
+.desk6{
+    width: 500px; 
+    /* border: 2px solid black; */
+    position: relative;
+    right: 200px;
+}
+.desk7{
+    width: 500px; 
+    /* border: 2px solid black; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: relative;
+    left: 700px;
+    bottom: 200px;
+
+}
+.desk7 button{
+    font-size: 20px;
+    padding: 10px;
+    border-color: red;
+    position: relative;
+    left: 150px;
+}
+.desk7 button:hover{
+    background-color: red;
+}
+.women{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(190, 182, 182);
+   
+
+}
